@@ -78,3 +78,7 @@ By building a sentiment classifier, we are automating the process of understandi
 *OUTCOME*:
 
 After completing all preprocessing and balancing steps, the Multinomial Naive Bayes model was trained and tested. Initially, class imbalance led to poor performance, but after balancing the dataset and applying advanced text cleaning (lemmatization and stop word removal), the model achieved better accuracy. The final performance was evaluated using a confusion matrix, accuracy score, precision, recall, and F1-score.
+
+![Image](https://github.com/user-attachments/assets/4b7fe14b-6b76-4452-a4ff-7a2186c44c06)
+
+![Image](https://github.com/user-attachments/assets/dc386ae5-fe1d-4186-9eb4-acd061ca77fc)
